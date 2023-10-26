@@ -39,7 +39,7 @@ Follow these steps to install and set up the LinkedIn Marketing Automation Tool:
 
 ## Important Note
 
-The LinkedIn interface keeps evolving rapidly. If you are committed to working with this tool or utilizing its functionality, please feel free to get in touch by sending an email to arth.htra69@gmail.com. I'd be happy to assist you in navigating any changes and ensuring a smooth experience.
+The LinkedIn interface keeps evolving rapidly and this code is outdated(archived). If you are committed to working with this tool or utilizing its functionality, please feel free to get in touch by sending an email to arth.htra69@gmail.com. I'd be happy to assist you in navigating any changes and ensuring a smooth experience.
 
 ## Contributing
 
